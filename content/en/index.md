@@ -8,8 +8,4 @@ Create new pages or modify the existing ones in `content/` directory.
 
 You can find an example of querying contents and rendering them in `app/pages/[...slug].vue`
 
-::tip
-Checkout [official docs][docs] to read more about Nuxt Content
-::
-
-[docs]: https://content.nuxt.com
+Checkout [official docs](https://content.nuxt.com) to read more about Nuxt Content

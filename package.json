@@ -2,9 +2,18 @@
   "name": "nuxt-content-i18n-starter",
   "private": true,
   "type": "module",
+  "packageManager": "pnpm@9.15.4",
+  "engines": {
+    "node": ">=20.18.1",
+    "pnpm": ">=9.15.4"
+  },
+  "volta": {
+    "node": "20.18.1",
+    "pnpm": "9.15.4"
+  },
   "scripts": {
-    "build": "nuxi build",
     "dev": "nuxi dev",
+    "build": "nuxi build",
     "generate": "nuxi generate",
     "preview": "nuxi preview"
   },
